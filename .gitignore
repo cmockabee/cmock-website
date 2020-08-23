@@ -1,0 +1,4 @@
+*.tf
+policy.json
+*.tfstate*
+*.terraform
